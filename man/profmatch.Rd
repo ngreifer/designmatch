@@ -57,7 +57,8 @@ Optimization solver parameters: a list with four objects,
 
 	Zubizarreta, J. R. (2012), "Using Mixed Integer Programming for Matching in an Observational Study of Kidney Failure after Surgery," \emph{Journal of the American Statistical Association}, 107, 1360-1371.
 
-	Cohn, E. R. and Zubizarreta, J. R. (2022) "Profile Matching for the Generalization and Personalization of Causal Inferences," \emph{Epidemiology}
+Cohn, E. R., & Zubizarreta, J. R. (2022). "Profile Matching for the Generalization and Personalization of Causal Inferences". \emph{Epidemiology}, 33(5), 678. \doi{10.1097/EDE.0000000000001517}
+
 }
 
 \author{
