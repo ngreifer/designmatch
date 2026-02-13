@@ -1,0 +1,19 @@
+# Remove the previous line if you edit this file
+
+# Export all names
+export(absstddif)
+export(bmatch)
+export(cardmatch)
+export(distmat)
+export(distmatch)
+export(ecdfplot)
+export(finetab)
+export(loveplot)
+export(meantab)
+export(nmatch)
+export(pairsplot)
+export(profmatch)
+
+import("stats")
+importFrom("slam", "simple_triplet_matrix")
+importFrom("graphics", "abline", "dotchart", "legend", "par", "plot", "points", "segments")
